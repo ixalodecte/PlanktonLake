@@ -15,7 +15,7 @@ This guide explains how to install and use this project as a CLI tool using **pi
 
 ## 1. Install pipx
 
-:contentReference[oaicite:0]{index=0} allows you to install Python CLI tools in isolated environments without affecting your system Python.
+pipx allows you to install Python CLI tools in isolated environments without affecting your system Python.
 
 ### Install pipx
 
@@ -44,7 +44,7 @@ pipx --version
 ### 2. Install the CLI tool
 
 ```bash
-pipx install git+https://github.com/ixalodecte/planktonlab.git
+pipx install git+https://github.com/ixalodecte/planktonlake.git
 ```
 
 # CLI Usage
